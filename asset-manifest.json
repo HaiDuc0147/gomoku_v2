@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gomoku_v2/static/css/main.943c2655.css",
+    "main.js": "/gomoku_v2/static/js/main.bc382608.js",
+    "index.html": "/gomoku_v2/index.html",
+    "main.943c2655.css.map": "/gomoku_v2/static/css/main.943c2655.css.map",
+    "main.bc382608.js.map": "/gomoku_v2/static/js/main.bc382608.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.943c2655.css",
+    "static/js/main.bc382608.js"
+  ]
+}
